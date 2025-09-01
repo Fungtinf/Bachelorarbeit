@@ -7,7 +7,7 @@ import os
 import re
 
 load_dotenv()
-openai.api_key = "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"
+openai.api_key = "sk-.."
 
 DB_PATH = r"C:\Bachelorarbeit\Datenbank\news_cache.db"
 
